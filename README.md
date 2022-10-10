@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jagdep-singh
 - 👀 I’m interested in python
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email-> jagdeep.singh12a@gmail.com
 
