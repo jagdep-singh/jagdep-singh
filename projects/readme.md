@@ -1,43 +1,33 @@
-# Interactive Voice Assistant (ALPHA)
+# ALPHA Assistant
 
-ALPHA is an interactive voice assistant built using Python that can understand and respond to both text and speech input. It performs tasks like opening apps, playing music, answering queries, and engaging in conversations.
+ALPHA Assistant is a simple web-based chatbot built using Flask that can perform various tasks such as opening apps, playing music on YouTube, providing information about the current date and time, and interacting with the user through natural language processing.
 
 ## Features
 
-- **Speech Recognition and Text-to-Speech Conversion:** ALPHA can convert speech input to text and text to speech using the `speech_recognition` and `pyttsx3` libraries.
+- **Open Apps**: You can instruct ALPHA to open specific applications on your system.
+- **Play Music**: ALPHA can play music by searching for songs on YouTube.
+- **Get Date and Time**: ALPHA provides information about the current date and time.
+- **Natural Language Processing**: The assistant uses natural language processing to understand and respond to user queries.
 
-- **App Opening:** Open applications by saying "Open app [app_name]" or typing "open app [app_name]" in the input.
+## Prerequisites
 
-- **Music Playback:** ALPHA can play music on YouTube. Just say "Play music [song_name]" or type "play music [song_name]".
+- Python 3.x
+- Flask
+- Requests library
+- SpeechRecognition library
+- Pyttsx3 library
 
-- **Query Handling:** Ask ALPHA questions like "What is your name?" or "What's the current time?" for relevant responses.
+## Installation
 
-- **Chatbot Interaction:** ALPHA uses the RapidAPI-powered ChatGPT-3.5 for dynamic conversations.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/alpha-assistant.git
+
 
 ## Usage
+- Run the Flask app:
+    ```bash
+    python app.py
+- Open a web browser and go to http://localhost:5000 to interact with ALPHA.
 
-1. Clone or download this repository.
-2. Install required libraries: `pip install requests pyttsx3 speech_recognition`
-3. Get your RapidAPI key from https://rapidapi.com/ and replace `"YOUR_RAPIDAPI_KEY"` in the code.
-4. Run `voice_assistant.py` and choose text (1) or speech (2) input.
-5. Interact with ALPHA through input or speech.
-
-## Examples
-
-- **Text Input:**
-You: [Speak] "Open app calculator."
-ALPHA: Opening application: calculator.
-
-## Note
-
-- Ensure your system has a working microphone for speech input.
-- ALPHA's performance relies on speech recognition accuracy and GPT-3.5 chatbot responses.
-
-## Contributors
-
-- Developed by Jagdeep Singh.
-- Contributions, issues, and enhancements welcome.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
