@@ -31,3 +31,5 @@ ALPHA Assistant is a simple web-based chatbot built using Flask that can perform
     python app.py
 - Open a web browser and go to http://localhost:5000 to interact with ALPHA.
 
+## API 
+- subscribe the api for chatgpt from rapid_api and paste the request api part into the code.
