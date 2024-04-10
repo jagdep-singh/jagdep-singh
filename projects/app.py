@@ -47,7 +47,7 @@ def ALPHA(message):
     }
     headers = {
         "content-type": "application/json",
-        "X-RapidAPI-Key": "83762b0843mshc25225e3dc8ee0ap1aab24jsnea425a03aec0",
+        "X-RapidAPI-Key": "your_api_key",
         "X-RapidAPI-Host": "chatgpt-best-price.p.rapidapi.com"
     }
 
