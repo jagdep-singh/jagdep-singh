@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning how to code<br><br>
 
-can visit https://jagdep-singh.github.io/webpage/
+can visit https://jagdep-singh.github.io/potfolio/
 
 
 ## 🌐 Socials:
