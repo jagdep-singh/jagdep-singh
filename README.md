@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning how to code<br><br>
 
-can visit jagdeepsingh.vercel.app
+can visit https://jagdeepsingh.vercel.app
 
 
 ## 🌐 Socials:
