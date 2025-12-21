@@ -2,53 +2,71 @@
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="42" />
 
-# Jagdeep Singh
-### Web Developer · Designer · Builder of Things That Ship
+# Jagdeep Singh  
+### Web Developer · Designer · Product-minded Engineer
 
-I don’t just write code —  
-I design systems, shape experiences, and ship products.
+I build web products that feel intentional.  
+Clean interfaces. Thoughtful interactions. Reliable systems.
 
-From **interface → interaction → backend → deployment**,  
-I like owning the full story.
+From idea to deployment — I like owning the whole journey.
 
 <br/>
 
-<a href="https://jagdeepsingh.vercel.app"><b>🌐 Portfolio</b></a>  
-<a href="mailto:jagdeep.singh12a@gmail.com">✉️ Email</a> · 
+<a href="https://jagdeepsingh.vercel.app"><b>🌐 Portfolio</b></a> ·
+<a href="mailto:jagdeep.singh12a@gmail.com">✉️ Email</a> ·
 <a href="https://www.linkedin.com/in/jagdeep-singh-3532b818b">LinkedIn</a>
-
-<br/><br/>
 
 </div>
 
 ---
 
-## Philosophy
+<div align="center">
 
-> Clean code is good.  
-> Shipped code is better.  
-> Shipped code that people enjoy using is the goal.
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="2"/>
 
-I learn by **building**,  
-I grow by **breaking**,  
-and I improve by **shipping again**.
+</div>
 
----
+## About
 
-## What I Actually Do
+I design and build **end-to-end web experiences** —  
+from frontend architecture and interaction design  
+to backend APIs, data flow, and deployment.
 
-- Design and build **end-to-end web products**
-- Craft **clean UI** with strong interaction design
-- Build **scalable backend APIs**
-- Think deeply about **performance and architecture**
-- Automate things that shouldn’t be manual
+I care about:
+- products that scale quietly  
+- interfaces that don’t fight the user  
+- code that’s readable six months later  
 
-Currently spending a lot of time on  
-**collaborative apps**, **automation**, and **systems that scale quietly**.
+I learn by shipping.  
+Breaking things is part of the process.
 
 ---
 
-## Toolbox (used, not just listed)
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="2"/>
+
+</div>
+
+## What I Work On
+
+- Full-stack web applications  
+- React & Next.js based systems  
+- Backend APIs and integrations  
+- Performance-focused builds  
+- Collaborative and automation-driven tools  
+
+Currently spending time on **systems that connect people and workflows**.
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="2"/>
+
+</div>
+
+## Tools I Actually Use
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" />
@@ -65,19 +83,31 @@ Currently spending a lot of time on
 
 ---
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="2"/>
+
+</div>
+
 ## Currently
 
-- 🧠 Learning **new frameworks & system design**
-- 🤝 Open to **collaborations, startups, and open-source**
-- 🌍 Based in **India**
-- ⚡ Rumored to be Spiderman (unconfirmed)
+- 🧠 Learning advanced system design & new frameworks  
+- 🤝 Open to collaborations, startups, and open-source  
+- 🌍 Based in India  
+- ⚡ Allegedly not Spiderman  
 
 ---
 
 <div align="center">
 
-### Selected Work & Experiments
-**Everything worth seeing lives here** 👇  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="2"/>
+
+</div>
+
+<div align="center">
+
+### Selected Work
+If you want to see **how I think and build**, start here:
 
 👉 **https://jagdeepsingh.vercel.app**
 
@@ -87,7 +117,7 @@ Currently spending a lot of time on
 
 <br/><br/>
 
-<i>If you like clean work, thoughtful systems, and people who ship —  
-we’ll get along.</i>
+<i>Good products are built with care.  
+Great ones are built with intent.</i>
 
 </div>
