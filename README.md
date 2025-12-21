@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="38" />
 
 # Jagdeep Singh
-### Software Engineer · Early-Career · Serious About Craft
+### Software Engineer · Early-Career · Systems-Oriented
 
 <a href="https://jagdeepsingh.vercel.app"><b>Portfolio</b></a> ·
 <a href="mailto:jagdeep.singh12a@gmail.com">Email</a> ·
@@ -15,79 +15,96 @@
 
 ## Statement
 
-I am a Computer Science student specializing in **Blockchain Technology**, with a strong and growing focus on **Artificial Intelligence, Generative AI, and modern web systems**.
+I am a Computer Science student specializing in **Blockchain Technology**,  
+with a strong focus on **Artificial Intelligence, Generative AI, and modern web systems**.
 
-I don’t approach software as isolated features or disconnected tasks.  
-I think in **systems**, **flows**, and **outcomes**.
+I don’t approach software as isolated features.  
+I think in **systems**, **constraints**, and **long-term impact**.
 
-My interest lies in building products that are:
-- technically sound  
-- intentionally designed  
-- scalable beyond their first version  
-
-I care about clarity in code, reasoning behind decisions, and understanding *why* something is built — not just *how*.
+I care about correctness, clarity, and reasoning —  
+not just whether something works, but *why it works*.
 
 ---
 
-## How I Work
+## How I Think About Engineering
 
-I work comfortably across the stack — frontend, backend, and integration layers — and I enjoy understanding the full lifecycle of a product.
+<details>
+<summary><b>▶ Architecture & Systems</b></summary>
 
-When I build, I focus on:
-- predictable architecture  
-- readable, maintainable code  
-- interfaces that don’t get in the user’s way  
-- systems that can grow without becoming fragile  
+I value simple architectures that scale through good decisions, not complexity.  
+I prefer predictable systems, clear boundaries, and designs that are easy to reason about.
 
-I prefer fewer features done well over many features done carelessly.
+I’m comfortable breaking problems down until the solution becomes obvious.
+
+</details>
+
+<details>
+<summary><b>▶ Code Quality & Maintainability</b></summary>
+
+I write code with the assumption that someone else — including future me —  
+will have to read, modify, and trust it.
+
+Readability, naming, and structure matter as much as correctness.
+
+</details>
+
+<details>
+<summary><b>▶ Performance & Trade-offs</b></summary>
+
+I actively think about performance, but I don’t optimize blindly.  
+I care about understanding bottlenecks, measuring impact, and making trade-offs explicit.
+
+</details>
 
 ---
 
 ## Experience & Exposure
 
-Through internships and independent projects, I’ve worked in environments that required:
+I’ve worked in environments that required:
 - remote collaboration  
-- clear communication  
-- shipping under deadlines  
+- shipping under real deadlines  
 - balancing speed with correctness  
+- clear communication across teams  
 
-I’ve contributed to user-facing interfaces, refined reusable components, and worked closely with others to improve overall product quality.
-
-I’m comfortable taking ownership, asking the right questions, and iterating based on feedback.
-
----
-
-## Early-Career Intent
-
-At this stage of my career, I am intentionally optimizing for **learning depth**, not shortcuts.
-
-I am looking for environments where:
-- real production systems are built and maintained  
-- engineering decisions are explained, not hidden  
-- feedback is direct and constructive  
-- quality matters, even under time pressure  
-
-I want responsibility early — not because I know everything, but because I learn fast when expectations are real.
+I’ve contributed to user-facing systems, reusable components, and collaborative tools,  
+and I’m comfortable taking ownership while asking the right questions early.
 
 ---
 
-## What You Can Expect From Me
+## Early-Career Intent (Read This If You’re Hiring)
+
+<details open>
+<summary><b>▶ What I’m looking for</b></summary>
+
+I’m seeking **internship and early-career roles** where I can:
+- work on real production systems  
+- learn from engineers who care about fundamentals  
+- receive direct, technical feedback  
+- take ownership of meaningful work early  
+
+I optimize for **learning depth**, not shortcuts.
+
+</details>
+
+<details>
+<summary><b>▶ What you’ll get from me</b></summary>
 
 - Strong fundamentals and disciplined thinking  
-- Willingness to learn, unlearn, and adapt  
-- Respect for engineering standards and team processes  
-- Clear communication and ownership of work  
-- Long-term mindset over short-term output  
+- Comfort with ambiguity and problem decomposition  
+- Clear communication and ownership  
+- A long-term mindset toward quality and growth  
 
-I take pride in doing work that I would stand by six months later.
+I take responsibility seriously — even when I’m still learning.
+
+</details>
 
 ---
 
 <div align="center">
 
 ### Work & Thinking
-If you want to understand **how I approach problems and build solutions**,  
-this is the most honest representation of my work:
+If you want to see how I **design, reason, and build**,  
+this is the most accurate representation of my work:
 
 👉 **https://jagdeepsingh.vercel.app**
 
@@ -97,7 +114,7 @@ this is the most honest representation of my work:
 
 <br/><br/>
 
-<i>I’m early in my career —  
-but I take the work seriously.</i>
+<i>Early in my career —  
+not early in intent.</i>
 
 </div>
