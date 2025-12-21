@@ -1,3 +1,5 @@
+<div align="center">
+
 Hi 👋  
 My name is **Jagdeep Singh**
 ======================================================================
@@ -12,56 +14,46 @@ Always experimenting. Always improving.
 
 ---
 
-* 🌍  Based in **India**
-* 🖥️  Portfolio: **[jagdeepsingh.vercel.app](https://jagdeepsingh.vercel.app)**
-* ✉️  Reach me at **[jagdeep.singh12a@gmail.com](mailto:jagdeep.singh12a@gmail.com)**
-* 🧠  Currently learning **new frameworks & advanced system design**
-* 👥  Open to collaborating on **interesting web projects, startups, and open-source**
-* 💬  Ask me about **why I might secretly be Spiderman** 🕷️
+🌍 **India**  
+🖥️ **Portfolio:** [https://jagdeepsingh.vercel.app] 
+✉️ **Email:** jagdeep.singh12a@gmail.com  
+🧠 **Learning:** New frameworks & advanced system design  
+👥 **Collaboration:** Web projects, startups, open-source  
+💬 **Fun:** Might be Spiderman 🕷️
 
 ---
 
 ### Tech I work with
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
-<a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" /></a>
-<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" /></a>
-<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a>
-<a href="https://docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" /></a>
+<a href="https://www.typescriptlang.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" /></a>
+<a href="https://reactjs.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" /></a>
+<a href="https://nextjs.org/docs"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" /></a>
+<a href="https://nodejs.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" /></a>
+<a href="https://fastapi.tiangolo.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" /></a>
+<a href="https://www.postgresql.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" /></a>
+<a href="https://www.mongodb.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" /></a>
+<a href="https://tailwindcss.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" /></a>
+<a href="https://git-scm.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" /></a>
 </p>
 
 ---
 
-### Portfolio
-
-👉 **[Visit my portfolio](https://jagdeepsingh.vercel.app)**  
-Selected projects, experiments, and case studies.
+### Portfolio  
+👉 [https://jagdeepsingh.vercel.app]
 
 ---
 
 ### Socials
 
-<p align="left">
-<a href="https://www.github.com/jagdep-singh">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/jagdeep-singh-3532b818b">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
+<p align="center">
+<a href="https://github.com/jagdep-singh"><img width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /></a>
+<a href="https://www.linkedin.com/in/jagdeep-singh-3532b818b"><img width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
 </p>
 
 ---
 
-### Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdep-singh&langs_count=8&bg_color=1c1917&text_color=ffffff&hide_border=true" />
 
-<a href="https://github.com/jagdep-singh">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdep-singh&langs_count=8&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" />
-</a>
+</div>
