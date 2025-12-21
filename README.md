@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="42" />
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
 
 # Jagdeep Singh  
-### Web Developer · Designer · Early-Career Engineer
+### Software Engineer · Early-Career · Product-Oriented
 
-I build web products with intention.  
-Clean interfaces. Thoughtful interactions. Reliable systems.
+I’m a motivated Computer Science student specializing in **Blockchain Technology**,  
+with a strong interest in **Artificial Intelligence, Generative AI, and scalable systems**.
 
-From idea to deployment — I like owning the whole journey.
+I enjoy building **real-world products** — from collaborative tools to AI-powered platforms —  
+and care deeply about clean architecture, usability, and performance.
 
 <br/>
 
@@ -20,78 +21,99 @@ From idea to deployment — I like owning the whole journey.
 
 ---
 
-## About
+## About Me
 
-I design and build **end-to-end web experiences** —  
-from frontend architecture and interaction design  
-to backend APIs, data flow, and deployment.
+I have hands-on experience building **AI-powered applications**, **collaborative systems**,  
+and **scalable web solutions**.
 
-I care about:
-- interfaces that feel effortless  
-- systems that are easy to reason about  
-- code that ages well  
+My strengths lie in:
+- problem-solving and analytical thinking  
+- translating ideas into working software  
+- collaborating effectively in team-based environments  
 
-I learn by shipping.  
-Breaking things is part of the process.
+I learn best by building things that are meant to be used.
 
 ---
 
-## What I Work On
+## Education
 
-- Full-stack web applications  
-- React & Next.js based systems  
-- Backend APIs and integrations  
-- Performance-focused builds  
-- Collaborative and automation-driven tools  
+**B.E. Computer Science Engineering**  
+*Specialization: Blockchain Technology*  
+Chandigarh University — Chandigarh
 
-Currently spending time on **products that connect people and workflows**.
-
----
-
-## Tools I Use
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="30" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" />
-</p>
+**Secondary & Higher Secondary Education**  
+DBMS Kadma High School — Jamshedpur, Jharkhand
 
 ---
 
-## Intern / Early-Career Vision
+## Experience
 
-I’m at a stage where **learning fast and building real things** matters most to me.
+**Frontend Developer Intern**  
+*CodeDex · Remote*  
+**Feb 2024 – Jul 2024**
 
-I’m looking for opportunities where I can:
+- Built responsive, user-centric interfaces using modern frontend tools  
+- Collaborated remotely with developers to design scalable UI components  
+- Delivered clean, efficient code while meeting deadlines consistently  
+
+---
+
+## Projects
+
+**ALPHA — AI Chatbot**  
+*May 2024*  
+An intelligent AI chatbot providing real-time, personalized assistance.
+
+**CodeHive — Collaborative Code Editor**  
+*Oct 2024*  
+A real-time collaborative code editor with multi-language support.
+
+**BrillX — AI-Powered Learning Platform**  
+*Mar 2025*  
+An AI-powered SaaS platform for instant, personalized learning experiences.
+
+---
+
+## Skills
+
+**Programming Languages**  
+Python · C++ · JavaScript · TypeScript
+
+**Frameworks & Development**  
+React · Next.js · Express.js · Linux
+
+**Tools**  
+Git · Visual Studio Code · Microsoft Excel
+
+**Core Strengths**  
+Problem-Solving · Data Analysis · Team Collaboration
+
+---
+
+## Leadership & Activities
+
+**Chess Team Captain**  
+*Feb 2024*  
+Led the university chess team in All India tournaments and contributed to national-level rankings.
+
+---
+
+## Early-Career Vision
+
+I’m actively looking for **internship and early-career opportunities** where I can:
 - work on real production systems  
-- learn from experienced engineers and designers  
-- take ownership of small but meaningful features  
-- grow into a strong, well-rounded engineer  
+- learn from experienced engineers  
+- take ownership of meaningful features  
+- grow into a strong, well-rounded software engineer  
 
-I value feedback, clarity, and teams that care about craft.
-
----
-
-## Currently
-
-- 🧠 Learning advanced system design & new frameworks  
-- 🤝 Open to internships, early-career roles, and collaborations  
-- 🌍 Based in India  
-- ⚡ Still not Spiderman (probably)
+I value mentorship, feedback, and teams that care about building things the right way.
 
 ---
 
 <div align="center">
 
 ### Selected Work
-If you want to see **how I think and build**, start here:
+Everything I build and experiment with lives here 👇  
 
 👉 **https://jagdeepsingh.vercel.app**
 
@@ -101,7 +123,7 @@ If you want to see **how I think and build**, start here:
 
 <br/><br/>
 
-<i>Good products are built with care.  
-Great ones are built with intent.</i>
+<i>Curious mind. Strong fundamentals.  
+Focused on building things that matter.</i>
 
 </div>
