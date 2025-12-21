@@ -1,59 +1,60 @@
 <div align="center">
 
-Hi 👋  
-My name is **Jagdeep Singh**
-======================================================================
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
 
-I build things on the web—mostly with **JavaScript, React/Next.js, and backend APIs**.  
-I enjoy working end-to-end: clean UI, thoughtful interactions, solid backend logic, and smooth integrations.
+## Jagdeep Singh  
+**Web Developer & Designer**
 
-Lately, I’ve been focused on **collaborative apps, automation, and performance-friendly designs**.
+I build thoughtful web products using **JavaScript, React/Next.js, and backend APIs**.  
+Focused on clean interfaces, solid architecture, and smooth user experiences.
 
-I learn by building, breaking things, fixing them, and shipping again.  
-Always experimenting. Always improving.
+Currently exploring **collaborative systems, automation, and performance-driven design**.
 
----
+<br/>
 
-🌍 **India**  
-🖥️ **Portfolio:** [https://jagdeepsingh.vercel.app] 
-✉️ **Email:** jagdeep.singh12a@gmail.com  
-🧠 **Learning:** New frameworks & advanced system design  
-👥 **Collaboration:** Web projects, startups, open-source  
-💬 **Fun:** Might be Spiderman 🕷️
+🌍 India &nbsp;•&nbsp;  
+🖥️ <a href="https://jagdeepsingh.vercel.app">Portfolio</a> &nbsp;•&nbsp;  
+✉️ <a href="mailto:jagdeep.singh12a@gmail.com">Email</a>
 
----
+<br/><br/>
 
-### Tech I work with
+### Tech Stack
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" /></a>
-<a href="https://www.typescriptlang.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" /></a>
-<a href="https://reactjs.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" /></a>
-<a href="https://nextjs.org/docs"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" /></a>
-<a href="https://nodejs.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" /></a>
-<a href="https://fastapi.tiangolo.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" /></a>
-<a href="https://www.postgresql.org/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" /></a>
-<a href="https://www.mongodb.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" /></a>
-<a href="https://tailwindcss.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" /></a>
-<a href="https://git-scm.com/"><img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="34" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" />
 </p>
 
----
+<br/>
 
-### Portfolio  
-👉 [https://jagdeepsingh.vercel.app]
+### Currently
 
----
+🧠 Learning new frameworks & system design  
+🤝 Open to collaborations and open-source  
+⚡ Fun fact: probably not Spiderman
 
-### Socials
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdep-singh&langs_count=6&bg_color=1c1917&text_color=ffffff&hide_border=true" />
+
+<br/>
 
 <p align="center">
-<a href="https://github.com/jagdep-singh"><img width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /></a>
-<a href="https://www.linkedin.com/in/jagdeep-singh-3532b818b"><img width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
+<a href="https://github.com/jagdep-singh">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jagdeep-singh-3532b818b">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" />
+</a>
 </p>
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdep-singh&langs_count=8&bg_color=1c1917&text_color=ffffff&hide_border=true" />
 
 </div>
