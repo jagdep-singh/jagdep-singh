@@ -11,7 +11,7 @@
 
 ---
 
-## Statement
+
 
 I am a Computer Science student specializing in **Blockchain Technology**, with a focused interest in **Artificial Intelligence, Generative AI, and modern web systems**.
 
