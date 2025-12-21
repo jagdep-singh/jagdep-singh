@@ -13,6 +13,7 @@ Always experimenting. Always improving.
 ---
 
 * 🌍  Based in **India**
+* 🖥️  Portfolio: **[jagdeepsingh.vercel.app](https://jagdeepsingh.vercel.app)**
 * ✉️  Reach me at **[jagdeep.singh12a@gmail.com](mailto:jagdeep.singh12a@gmail.com)**
 * 🧠  Currently learning **new frameworks & advanced system design**
 * 👥  Open to collaborating on **interesting web projects, startups, and open-source**
@@ -36,6 +37,13 @@ Always experimenting. Always improving.
 <a href="https://docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
 </p>
+
+---
+
+### Portfolio
+
+👉 **[Visit my portfolio](https://jagdeepsingh.vercel.app)**  
+Selected projects, experiments, and case studies.
 
 ---
 
