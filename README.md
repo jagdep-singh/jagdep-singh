@@ -1,16 +1,9 @@
 <div align="center">
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=600&color=6FA4FC&center=true&vCenter=true&width=600&lines=Jagdeep+Singh;Software+Engineer;Early-Career+%7C+Systems-Oriented" />
+# Jagdeep Singh  
+**Software Engineer · Early-Career**
 
-<br/>
-
-<!-- Subtle pulse line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1e293b,100:3b82f6&section=header" />
-
-<br/><br/>
-
-<a href="https://jagdeepsingh.vercel.app"><b>Portfolio</b></a> ·
+<a href="https://jagdeepsingh.vercel.app">Portfolio</a> ·
 <a href="mailto:jagdeep.singh12a@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/jagdeep-singh-3532b818b">LinkedIn</a>
 
@@ -20,77 +13,59 @@
 
 ## Statement
 
-I am a Computer Science student specializing in **Blockchain Technology**,  
-with a focused interest in **Artificial Intelligence, Generative AI, and modern web systems**.
+I am a Computer Science student specializing in **Blockchain Technology**, with a focused interest in **Artificial Intelligence, Generative AI, and modern web systems**.
 
-I don’t think in features alone.  
-I think in **systems, constraints, and long-term outcomes**.
+I approach software as a system, not a set of features.  
+My work prioritizes clarity, correctness, and long-term maintainability.
 
-I care about how software behaves under real usage —  
-how it scales, how it fails, and how it’s maintained.
+I care about how things scale, how they fail, and how they’re understood by the next person who touches the code.
 
 ---
 
-## How I Build
+## How I Work
 
-I work across the full stack with a strong bias toward **clarity and structure**.
+I work across the stack with an emphasis on **clean structure and intent**.
 
 That means:
 - understanding the problem before choosing tools  
-- designing flows that make sense to users and developers  
+- designing flows that are predictable and easy to reason about  
 - writing code meant to be read, not just executed  
-- favoring simplicity that survives growth  
+- preferring simplicity that survives growth  
 
-I value calm, predictable systems over clever but fragile ones.
-
----
-
-<!-- Animated divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0f172a,100:38bdf8&section=footer" />
-</div>
+I value steady progress over clever shortcuts.
 
 ---
 
-## Experience & Exposure
+## Experience
 
 I’ve worked in environments that required:
-- remote collaboration across time zones  
-- shipping features under deadlines  
+- remote collaboration  
+- shipping under real deadlines  
 - balancing speed with correctness  
-- communicating clearly about trade-offs  
+- clear technical communication  
 
-I’m comfortable taking ownership early, asking precise questions,  
-and iterating based on feedback.
+I’m comfortable taking ownership early, asking precise questions, and iterating based on feedback.
 
 ---
 
 ## Early-Career Intent
 
-At this stage, I’m deliberately optimizing for **depth over speed**.
+I’m currently seeking **internship and early-career roles** where I can:
+- work on real production systems  
+- learn from experienced engineers  
+- take responsibility for meaningful features  
+- grow through clear feedback and expectations  
 
-I’m looking for roles where:
-- real production systems are built and maintained  
-- engineering decisions are explained, not abstracted away  
-- feedback is direct and technical  
-- responsibility is earned and expected  
-
-I want to grow by working on things that matter.
+I optimize for learning depth, not shortcuts.
 
 ---
 
-<!-- Soft animated footer -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdep-singh&langs_count=6&bg_color=0f172a&text_color=e5e7eb&hide_border=true" />
+See my work → **https://jagdeepsingh.vercel.app**
 
 <br/><br/>
 
-<b>See how I think and build</b><br/>
-👉 https://jagdeepsingh.vercel.app
-
-<br/><br/>
-
-<i>Early in career — steady in intent.</i>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdep-singh&langs_count=6&bg_color=ffffff&text_color=000000&hide_border=true" />
 
 </div>
