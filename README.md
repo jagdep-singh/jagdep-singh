@@ -64,8 +64,4 @@ I optimize for learning depth, not shortcuts.
 
 See my work → **https://jagdeepsingh.vercel.app**
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdep-singh&langs_count=6&bg_color=ffffff&text_color=000000&hide_border=true" />
-
 </div>
