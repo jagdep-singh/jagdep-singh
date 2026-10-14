@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/jagdep-singh">
+
   <h1>Jagdeep Singh</h1>
-</a>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=550&lines=Building+backend+systems;Exploring+AI+and+developer+tools;Turning+ideas+into+working+software" alt="Building backend systems, exploring AI and developer tools" />
 
-<br/>
+
 
 <a href="https://jagdeepsingh.vercel.app">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/jagdeep-singh-3532b818b">LinkedIn</a> ·
