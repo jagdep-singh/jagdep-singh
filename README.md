@@ -30,8 +30,8 @@ Software engineer focused on **backend systems, AI tools, and full-stack product
 
 ### `~/selected-work`
 
-- **[VORTEX](https://github.com/jagdep-singh)** — AI pair-programming agent for the terminal.
-- **Evven** — Expense management platform with a FastAPI backend.
+- **[VORTEX](https://github.com/jagdep-singh/VORTEX)** — AI pair-programming agent for the terminal.
+- **[Evven](https://evven.xyz)** — Expense management platform with a FastAPI backend.
 - **[PromptVault](https://github.com/jagdep-singh/promptVault)** — Full-stack app for organizing and managing AI prompts.
 
 More on my [portfolio](https://jagdeepsingh.vercel.app).
